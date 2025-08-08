@@ -1,0 +1,20 @@
+{
+  "title": "ZY_Player_flutter",
+  "verificationCodeLogin": "Вход по коду подтверждения",
+  "passwordLogin": "Вход по паролю",
+  "login": "Вход",
+  "forgotPasswordLink": "Забыли пароль",
+  "inputPasswordHint": "Пожалуйста, введите пароль",
+  "inputUsernameHint": "Пожалуйста, введите имя пользователя",
+  "noAccountRegisterLink": "Нет аккаунта? Зарегистрируйтесь",
+  "register": "Регистрация",
+  "openYourAccount": "Откройте свой аккаунт",
+  "inputPhoneHint": "Пожалуйста, введите номер телефона",
+  "inputVerificationCodeHint": "Пожалуйста, введите код подтверждения",
+  "inputPhoneInvalid": "Пожалуйста, введите корректный номер телефона",
+  "verificationButton": "Код не отправлен, просто войдите!",
+  "getVerificationCode": "Получить код подтверждения",
+  "confirm": "Подтвердить",
+  "resetLoginPassword": "Сбросить пароль для входа",
+  "registeredTips": "Незарегистрированный номер телефона, пожалуйста, "
+}
