@@ -1,3 +1,5 @@
+[README.md](README.md) | [Русский](README_RU.md)
+
 # 虱子聚合 资源播放  如果喜欢，麻烦点个star吧！谢谢！！
 
 影视,漫画,小说,听书 资源播放 免费无广告 (其他功能,进入后发现)
@@ -52,4 +54,3 @@
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xiaojia21190/ZY_Player_flutter&type=Date)](https://star-history.com/#xiaojia21190/ZY_Player_flutter&Date)
-
